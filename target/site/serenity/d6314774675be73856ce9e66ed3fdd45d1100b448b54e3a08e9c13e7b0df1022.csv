@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Booking CURD test with steps","This will return token","SUCCESS","2023-08-08T17:44:12.576+01:00[Europe/London]","0.0","2.98"
+"Booking CURD test with steps","This will create booking","SUCCESS","2023-08-08T17:44:15.576+01:00[Europe/London]","0.0","0.45"
+"Booking CURD test with steps","This will update booking with firstname","SUCCESS","2023-08-08T17:44:16.029+01:00[Europe/London]","0.0","0.5"
+"Booking CURD test with steps","This will fetch booking details by booking id","SUCCESS","2023-08-08T17:44:16.529+01:00[Europe/London]","0.0","0.45"
+"Booking CURD test with steps","This will delete booking","SUCCESS","2023-08-08T17:44:16.982+01:00[Europe/London]","0.0","0.89"
